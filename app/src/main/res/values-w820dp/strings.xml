@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoLayout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_login">Login</string>
+    <string name="label_usuario">Usuário:</string>
+    <string name="label_senha">Senha:</string>
+    <string name="botao_logar">Logar</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="label_cadastro_time">Cadastro de Time</string>
+    <string name="label_clube">Clube:</string>
+    <string name="title_activity_lista_times">LIstaTimes</string>
+    <string name="label_lista_times">Lista Times</string>
+    <string name="label_desenv">Desenvolvido por Leandro Pereira</string>
+    <string name="label_lista_vazia">Nenhum Clube Cadastrado</string>
+    <string name="label_usario_logado">Usuário Logado</string>
+    <string name="msg_login_invalido">Usuário Inválido</string>
+</resources>
